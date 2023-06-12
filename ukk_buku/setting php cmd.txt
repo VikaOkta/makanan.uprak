@@ -1,0 +1,6 @@
+setting php cmd
+%windir%\System32\SystemPropertiesAdvanced.exe
+
+path : C:\xampp\php
+
+php -S localhost:1234
